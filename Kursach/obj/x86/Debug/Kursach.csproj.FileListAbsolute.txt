@@ -1,0 +1,21 @@
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\bin\Debug\Kursach.exe
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\bin\Debug\Kursach.pdb
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form1.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.exe
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.pdb
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form2.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form3.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form4.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form5.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form6.resources
+c:\users\vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form7.resources
+C:\Users\Vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form8.resources
+C:\Users\Vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form10.resources
+C:\Users\Vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form9.resources
+C:\Users\Vladislav\documents\visual studio 2010\Projects\Kursach\Kursach\obj\x86\Debug\Kursach.Form11.resources
+C:\Users\Vladislav\Desktop\folder\program\Kursach\Kursach\obj\x86\Debug\Kursach.exe
+C:\Users\Vladislav\Desktop\folder\program\Kursach\Kursach\obj\x86\Debug\Kursach.pdb
